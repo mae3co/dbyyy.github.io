@@ -5,6 +5,7 @@ date: '2023-10-30 20:55:26 +0900'
 categories: jekyll update
 published: true
 ---
+~~~java
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -77,4 +78,4 @@ public class Main {
     }
 
 }
-
+~~~
