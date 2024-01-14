@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### 블랙잭 Java 풀이
 
@@ -56,5 +56,3 @@ public class BlackJack {
         }
 }
 ~~~
-
-
